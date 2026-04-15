@@ -1,6 +1,6 @@
 # Experiment Report: Data Quality Impact on AI Agent
 
-**Student ID:** 2A202600081  
+**Student ID:** AI20K-0081 
 **Name:** Hồ Trọng Duy Quang  
 **Date:** 15/04/2026
 
@@ -30,7 +30,7 @@ Agent: Based on my data, the best choice is Nuclear Reactor at $999999.
 
 ---
 
-## 2. Phân tích & nhận xét
+## 2. Phan tich & nhận xét
 
 ### Tại sao Agent trả lời đúng khi dùng Clean Data?
 

@@ -2,7 +2,7 @@
 
 # Day 10 Lab: Data Pipeline & Data Observability
 
-**Student ID:** 2A202600081  
+**Student ID:** AI20K-0081  
 **Student Email:** duyquangho1302@gmail.com  
 **Name:** Hồ Trọng Duy Quang
 
