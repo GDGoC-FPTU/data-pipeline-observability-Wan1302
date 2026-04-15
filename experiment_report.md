@@ -1,6 +1,6 @@
 # Experiment Report: Data Quality Impact on AI Agent
 
-**Student ID:** AI20K-0081 
+**Student ID:** AI20K-2A202600081
 **Name:** Hồ Trọng Duy Quang  
 **Date:** 15/04/2026
 
